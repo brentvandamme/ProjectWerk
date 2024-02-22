@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483F2C2C-CFBF-4CB7-AA34-9FFDA7EAFEED}|BL\\BL.csproj|c:\\users\\brent\\source\\repos\\projectwerk\\projectwerk_carapp\\bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483F2C2C-CFBF-4CB7-AA34-9FFDA7EAFEED}|BL\\BL.csproj|solutionrelative:bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93102A07-5616-41D3-8CAF-ED74FE71880A}|ProjectWerk_CarApp\\DAL.csproj|c:\\users\\brent\\source\\repos\\projectwerk\\projectwerk_carapp\\projectwerk_carapp\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93102A07-5616-41D3-8CAF-ED74FE71880A}|ProjectWerk_CarApp\\DAL.csproj|solutionrelative:projectwerk_carapp\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93102A07-5616-41D3-8CAF-ED74FE71880A}|ProjectWerk_CarApp\\DAL.csproj|c:\\users\\brent\\source\\repos\\projectwerk\\projectwerk_carapp\\projectwerk_carapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93102A07-5616-41D3-8CAF-ED74FE71880A}|ProjectWerk_CarApp\\DAL.csproj|solutionrelative:projectwerk_carapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\BL\\Class1.cs",
+              "RelativeDocumentMoniker": "BL\\Class1.cs",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\BL\\Class1.cs",
+              "RelativeToolTip": "BL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:13:14.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\ProjectWerk_CarApp\\DAL.csproj",
+              "RelativeDocumentMoniker": "ProjectWerk_CarApp\\DAL.csproj",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\ProjectWerk_CarApp\\DAL.csproj",
+              "RelativeToolTip": "ProjectWerk_CarApp\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-21T22:13:02.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\ProjectWerk_CarApp\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjectWerk_CarApp\\Class1.cs",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\ProjectWerk\\ProjectWerk_CarApp\\ProjectWerk_CarApp\\Class1.cs",
+              "RelativeToolTip": "ProjectWerk_CarApp\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:12:37.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
